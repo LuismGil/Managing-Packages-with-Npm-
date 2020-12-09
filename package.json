@@ -1,12 +1,16 @@
 {
-	"version": "1.2.0",
+	"version": "1.0.0",
 	"license": "MIT",
-	"keywords": [ "freecodecamp", "practice", "beginner" ],
+	"keywords": [
+		"freecodecamp",
+		"practice",
+		"beginner"
+	],
 	"description": "A project that does something awesome",
 	"author": "Luis Gil",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "4.14.0",
+		"express": "^4.14.0",
 		"moment": "2.14.0"
 	},
 	"main": "server.js",
